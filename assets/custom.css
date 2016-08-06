@@ -1,0 +1,16 @@
+body {
+    background: #eee;
+    font-family: Montserrat,Arial;
+    font-size: 15px;
+}
+footer h4, footer h6 {
+    color: #aaa;
+}
+.navbar-color{
+    background: #841FAD !important;
+    margin-bottom: 0px !important;
+    
+}
+.nav-list{
+    color: #FFF !important;
+}
